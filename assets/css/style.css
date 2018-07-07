@@ -8,6 +8,11 @@ body {
     margin-top: 15px;
 
 }
+
+.fixed-nav .slimScrollDiv #side-menu {
+    padding-bottom: 60px;
+}
+
 hr {
     display: block;
     height: 10px;
